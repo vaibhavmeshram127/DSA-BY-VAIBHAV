@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0150-evaluate-reverse-polish-notation) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
