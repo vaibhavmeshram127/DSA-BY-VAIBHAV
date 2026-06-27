@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
