@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
