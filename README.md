@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
