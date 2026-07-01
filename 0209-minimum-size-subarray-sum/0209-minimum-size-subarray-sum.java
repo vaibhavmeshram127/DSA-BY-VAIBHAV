@@ -6,7 +6,7 @@ class Solution {
         int len=Integer.MAX_VALUE;
         while(j<nums.length){
             sum=sum+nums[j];
-            while(sum>=target && i<=j){
+            while(sum>=target ){
                 len=Math.min(len,(j-i)+1);
                 sum=sum-nums[i];
                 i++;
