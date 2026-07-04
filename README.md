@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0137-single-number-ii) |
 ## Sorting
 |  |
