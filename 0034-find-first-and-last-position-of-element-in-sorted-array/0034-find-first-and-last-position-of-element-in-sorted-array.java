@@ -1,36 +1,32 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] arr={-1,-1};
-        arr[0]=helper(nums,target,true);
-        arr[1]=helper(nums,target,false);
-
-        return arr;
-
+        int[] ans=new int[2];
+        ans[0]=helper(nums,target,true);
+        ans[1]=helper(nums,target,false);
+        return ans;
         
     }
-    public int helper(int[] nums,int target,boolean value){
-        int ans=-1;
-        int low=0;
-        int high=nums.length-1;
-        
-        
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(target==nums[mid]){
-                ans=mid;
-                if(value){
-                   high=mid-1;
+    public int helper(int[] nums,int target,boolean key){
+        int left=0;
+        int right=nums.length-1;
+        int min=-1;
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            if(nums[mid]==target){
+                min=mid;
+                if(key){
+                    right=mid-1;
                 }else{
-                    low=mid+1;
+                    left=mid+1;
                 }
             }
             else if(nums[mid]<target){
-                low=mid+1;
+                left=mid+1;
+                
             }else{
-                high=mid-1;
+                right=mid-1;
             }
-            
         }
-        return ans ;
+        return min;
     }
 }
