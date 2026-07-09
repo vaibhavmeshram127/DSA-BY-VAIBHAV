@@ -148,4 +148,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0219-contains-duplicate-ii) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
