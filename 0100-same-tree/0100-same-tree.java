@@ -22,13 +22,12 @@ class Solution {
             return false;
         }
 
-        boolean left=isSameTree(p.left,q.left);
-        boolean right=isSameTree(p.right,q.right);
+        
+       
+
+        boolean left=isSameTree(p.left, q.left); 
+        boolean right=isSameTree(p.right, q.right); 
         return left && right;
-        
-        
-
-
         
     }
 }
