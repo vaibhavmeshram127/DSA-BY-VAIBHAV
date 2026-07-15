@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0142-linked-list-cycle-ii) |
 ## Array
