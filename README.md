@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0222-count-complete-tree-nodes) |
+| [0713-subarray-product-less-than-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0713-subarray-product-less-than-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0713-subarray-product-less-than-k) |
 ## Tree
 |  |
 | ------- |
