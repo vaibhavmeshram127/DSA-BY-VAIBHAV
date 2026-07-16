@@ -3,21 +3,22 @@ class Solution {
         int i=0;
         int j=0;
         int sum=0;
-        int len=Integer.MAX_VALUE;
+        int min=Integer.MAX_VALUE;
         while(j<nums.length){
             sum=sum+nums[j];
-            while(sum>=target ){
-                len=Math.min(len,(j-i)+1);
+            while(sum>=target){
+                min=Math.min(min,(j-i)+1);
                 sum=sum-nums[i];
                 i++;
             }
             j++;
-           
+
         }
-        if(len==Integer.MAX_VALUE){
+        if(min==Integer.MAX_VALUE){
             return 0;
+        }else{
+            return min;
         }
-        return len;
         
     }
 }
