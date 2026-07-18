@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0876-middle-of-the-linked-list](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0876-middle-of-the-linked-list) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0977-squares-of-a-sorted-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
