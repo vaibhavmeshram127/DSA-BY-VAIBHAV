@@ -1,29 +1,27 @@
 class Solution {
     public int findUnsortedSubarray(int[] nums) {
-        
-        int n = nums.length;
-        int left = -1, right = -1;
-        int maxSeen = nums[0];
-        int minSeen = nums[n-1];
-        // left scan to find the end boundary of the unsorted array
-        for(int i = 1; i < n ; i++){
-            maxSeen = Math.max(maxSeen , nums[i]);
-            // if an element is smaller than the maxSeen 
-            // it is in the wrong position globally
-            if(nums[i] < maxSeen){
-                right = i;
+        int left=0;
+        int right=0;
+        int max=Integer.MIN_VALUE;
+        int min=Integer.MAX_VALUE;
+        for(int i=0;i<nums.length;i++){
+            max=Math.max(nums[i],max);
+            if(nums[i]<max){
+                right=i;
+                
             }
         }
-        // right scan to find the start boundary of the unsorted array 
-        for(int i = n - 2; i >= 0 ; i--){
-            minSeen = Math.min(minSeen ,nums[i]);
-            // if an element is greater than the minSeen its in wrong position globally
-            if(nums[i] > minSeen){
-                left = i;
+        for(int i=nums.length-1;i>=0;i--){
+            min=Math.min(nums[i],min);
+            if(nums[i]>min){
+                left=i;
+                
             }
-        }   
-        // if right hasn't moved a bit , it means the array is already sorted 
-        if(right == -1) return 0;
-        return right - left + 1;
+        }
+        if(left==0 && right==0){
+            return 0;
+        }
+        return right-left+1;
+        
     }
 }
