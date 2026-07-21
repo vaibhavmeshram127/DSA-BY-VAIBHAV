@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0141-linked-list-cycle) |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0226-invert-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
