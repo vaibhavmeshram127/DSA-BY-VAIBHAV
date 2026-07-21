@@ -8,22 +8,26 @@ class Solution {
             if(slow==1 || fast==1){
                 return true;
             }
-
-        }while(fast!=slow);
-
-        return false;
-        
-        
-    }
-    public  int square(int n){
-        int prod=0;
-        while(n>0){
-            int rem=n%10;
-            prod=prod+rem*rem;
-            n=n/10;
             
 
+        }while(slow!=fast);
+        return false;
+        
+
+
+
+
+
+
+        
+    }
+    public int square(int n){
+        int sum=0;
+        while(n>0){
+            int rem=n%10;
+            sum=sum+rem*rem;
+            n=n/10; 
         }
-        return prod;
+        return sum;
     }
 }
