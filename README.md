@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0202-happy-number) |
 ## Stack
@@ -237,5 +239,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
