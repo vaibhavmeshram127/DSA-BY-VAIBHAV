@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0392-is-subsequence) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0238-product-of-array-except-self) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0202-happy-number) |
 ## Stack
 |  |
