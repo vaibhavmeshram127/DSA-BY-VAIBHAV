@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0986-interval-list-intersections) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0986-interval-list-intersections) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
