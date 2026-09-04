@@ -3,48 +3,39 @@ class Solution {
         int totalSum=0;
         for(int i=0;i<nums.length;i++){
             totalSum=totalSum+nums[i];
+
         }
-        
-        int max=kadneMAX(nums);
-        int min=kadneMIN(nums);
+
+        int max=max(nums);
+        int min=min(nums);
         int circular=totalSum-min;
-        if(max<0){
+        if(min==totalSum){
             return max;
-        }else{
-            return Math.max(circular,max);
 
         }
-        
-
-
+        return Math.max(max,circular);
 
         
     }
-    public int kadneMAX(int[] nums){
+    public int max(int[] nums){
         int max=Integer.MIN_VALUE;
         int sum=0;
         for(int i=0;i<nums.length;i++){
             sum=sum+nums[i];
-            max=Math.max(sum,max);
+            max=Math.max(max,sum);
             if(sum<0){
                 sum=0;
             }
-
         }
         return max;
-
     }
-    
-    public int kadneMIN(int[] nums){
+    public int min(int[] nums){
         int min=Integer.MAX_VALUE;
         int sum=0;
         for(int i=0;i<nums.length;i++){
-            sum=sum+nums[i];
-            sum=Math.min(sum,nums[i]);
+            sum=Math.min(sum+nums[i],nums[i]);
             min=Math.min(min,sum);
-
         }
         return min;
-
-    }
+    } 
 }
