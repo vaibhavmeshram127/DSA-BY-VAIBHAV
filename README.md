@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0392-is-subsequence) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |
