@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0383-ransom-note) |
+| [0525-contiguous-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0704-binary-search) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0724-find-pivot-index) |
