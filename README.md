@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0503-next-greater-element-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## String Matching
 |  |
