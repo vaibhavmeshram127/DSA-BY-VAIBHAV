@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0986-interval-list-intersections) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/1189-maximum-number-of-balloons) |
 ## Hash Table
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0852-peak-index-in-a-mountain-array) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
