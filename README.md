@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0572-subtree-of-another-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0572-subtree-of-another-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -318,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0844-backspace-string-compare) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/vaibhavmeshram127/DSA-BY-VAIBHAV/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
