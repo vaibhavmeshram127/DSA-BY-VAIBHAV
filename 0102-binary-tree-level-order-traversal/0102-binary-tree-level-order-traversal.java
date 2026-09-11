@@ -20,28 +20,27 @@ class Solution {
         if(root==null){
             return ans;
         }
-        queue.offer(root);
+        queue.add(root);
         while(!queue.isEmpty()){
             int size=queue.size();
+           
             List<Integer> soln=new ArrayList<>();
+         
             for(int i=0;i<size;i++){
                 TreeNode current=queue.poll();
                 soln.add(current.val);
+                
                 if(current.left!=null){
-                    queue.offer(current.left);
-
+                    queue.add(current.left);
                 }
                 if(current.right!=null){
-                    queue.offer(current.right);
+                    queue.add(current.right);
                 }
-
-
-                
             }
             ans.add(soln);
-        }
-        return  ans;
 
+        }
+        return ans;
         
     }
-}
+}  
